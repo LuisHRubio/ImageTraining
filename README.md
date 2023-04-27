@@ -3,11 +3,11 @@
 -----------------------------------DESCRIPTION-----------------------------
 
 This program reads all the images included in the folders and obtains:
-- Percentage of R values
-- Percentage of G values
-- Percentage of B values
-- Brightness of grayscale
-- Color intensity
+- Histogram of R values
+- Histogram of G values
+- Histogram of B values
+- Histogram of grayscale brightness
+- Mean + Standard deviation
 
 --------------------------------HOW TO USE---------------------------------
 
